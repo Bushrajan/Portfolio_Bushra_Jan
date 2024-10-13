@@ -2,10 +2,10 @@ import Image from 'next/image'
 import React from 'react'
 // import Gif from "@/app/technical_education.gif"
 // import Gif2 from "@/app/experience.gif"
-import gov from "@/app/giaic.png"
-import matric from "@/app/matric.png"
-import intermidiate from "@/app/intermidiate.png"
-import smit from "@/app/smit.png"
+import gov from '@/app/giaic.png'
+import matric from '@/app/matric.png'
+import intermidiate from '@/app/intermidiate.png'
+import smit from '@/app/smit.png'
 
 export default function About() {
     return (

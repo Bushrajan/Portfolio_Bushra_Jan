@@ -1,11 +1,11 @@
 'use client'
-import Image from "next/image";
-import G2 from "@/app/g4.png"
-import About from "./about/page";
-import Client_reviews from "./client_reviews/page";
-import Projects from "./projects/page";
-import Certificates from "./certificates/page";
-import TypedComponent from "./components/typed";
+import Image from 'next/image';
+import G2 from '@/app/g4.png'
+import About from './about/page';
+import Client_reviews from './client_reviews/page';
+import Projects from './projects/page';
+import Certificates from './certificates/page';
+import TypedComponent from './components/typed';
 
 export default function Home() {
   return (

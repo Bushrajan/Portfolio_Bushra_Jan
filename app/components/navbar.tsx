@@ -1,9 +1,8 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import Logo from "@/app/logo.png"
-import Girl from "@/app/g4.png"
-import Resume from './resume';
+import Logo from '@/app/logo.png'
+import Girl from '@/app/g4.png'
 import { Button } from '@/components/ui/button';
 
 export default function Navbar() {

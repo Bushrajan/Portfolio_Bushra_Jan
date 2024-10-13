@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import certificate2 from "@/app/certificate2.png"
-import click from "@/app/click.png"
+import certificate2 from '@/app/certificate2.png'
+import click from '@/app/click.png'
 
 
 export default function Certificates() {
